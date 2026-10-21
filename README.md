@@ -1,12 +1,29 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building high-performance backend systems, architecting scalable microservices, and developing secure APIs using Golang, gRPC, CockroachDB/PostgreSQL, Redis, Docker, Kubernetes, and AWS.<br><br>👯 I’m looking to collaborate on<br><br>Backend-heavy projects involving distributed systems, microservices, real-time processing, database design, or performance optimization.<br><br>🤝 I’m looking for help with<br><br>Advanced observability, cloud-native architecture, and scaling large, low-latency backend systems.<br><br>🌱 I’m currently learning<br><br>Temporal, deeper DevOps practices, Elasticsearch, and advanced system design for high-scale architectures.<br><br>💬 Ask me about<br><br>Backend development with Golang, gRPC, REST APIs, microservices, database optimization, Docker/Kubernetes, CI/CD, and debugging/monitoring with Grafana + Jaeger.<br><br>⚡ Fun fact<br><br>I love solving system bottlenecks as much as I enjoy a strategic game of chess!
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Himanshu Jakhmola, Go (Golang) backend engineer. Simplified map of a platform he ran: web and mobile BFFs, 20-25 Go microservices, CockroachDB, Elasticsearch and vector database clusters.">
+</p>
 
+**Go (Golang) backend engineer in Delhi. I build microservices, gRPC and PostgreSQL-backed APIs, and keep distributed systems running.** Open to remote roles and relocation.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu__jk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/himanshu-j-719b33b4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshujakhmola143@gmail.com) 
+### What I do
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+5+ years of production Go. At my last company I ran 20-25 Go microservices at 99.9% uptime, with under 200 ms average latency, on CockroachDB, Elasticsearch and vector databases. I cut a slow export API from 16 minutes to under 2 seconds with PostgreSQL tuning and concurrency. Now I lead backend architecture for an AI hiring platform: Temporal workflows, semantic search and a real-time voice agent. I also write about Go internals on LinkedIn, mostly GC tuning, `sync.Pool` and error handling.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### Open source
+
+**[skill-matcher](https://github.com/Himanshujk/skill-matcher)** A Go terminal app that matches skills across Excel files, exact or semantic (FastText). Reads files concurrently.
+
+**[machine-coding-interview-questions](https://github.com/jkaus324/machine-coding-interview-questions/pull/2)** I added Go solutions for 20 low-level design problems (merged PR #2).
+
+```bash
+git clone https://github.com/Himanshujk/skill-matcher && cd skill-matcher && go build -o skill-matcher && ./skill-matcher
+```
+
+### Stack
+
+Go · gRPC · PostgreSQL · CockroachDB · Redis · Elasticsearch · RabbitMQ · Temporal · Kubernetes · Docker · AWS · OpenTelemetry · Prometheus · Grafana
+
+### Find me
+
+[LinkedIn](https://linkedin.com/in/himanshu-j-719b33b4) · [Email](mailto:himanshujakhmola143@gmail.com)
+
+<sub>Last updated October 2026</sub>
